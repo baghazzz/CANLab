@@ -1,0 +1,4 @@
+python-can
+cantools
+PyQt6
+pyqtgraph
